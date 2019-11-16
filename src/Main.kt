@@ -1,5 +1,4 @@
-import java.util.*
-import kotlin.collections.HashMap
+
 
 fun main() {
     println("Hello Git!")
@@ -56,6 +55,17 @@ fun main() {
 
     println("cat1 = cat5 is ${cat1 == cat5}")
 
+    println("Trap")
+    println("Trap")
+    println("Trap")
+    println("Trap")
+    println("Trap")
+    println("Trap")
+    println("Trap")
+    println("Trap")
+    println("Trap")
+    println("Trap")
+    println("Trap")
 }
 
 fun add(a: Int, b: Int): Int {
@@ -64,4 +74,8 @@ fun add(a: Int, b: Int): Int {
 
 fun mul(a: Int, b: Int): Int {
     return a * b
+}
+
+fun test() {
+    println(Controller().test())
 }
