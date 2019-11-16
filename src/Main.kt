@@ -5,6 +5,8 @@ fun main() {
     println("Sum: ${add(10, 50)}.")
     println("Mul: ${mul(10, 3)}.")
     println("Yo!")
+    println("Yoee!")
+
 }
 
 fun add(a: Int, b: Int): Int {
