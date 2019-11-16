@@ -1,4 +1,5 @@
-
+import java.util.*
+import kotlin.collections.HashMap
 
 fun main() {
     println("Hello Git!")
@@ -74,6 +75,10 @@ fun add(a: Int, b: Int): Int {
 
 fun mul(a: Int, b: Int): Int {
     return a * b
+}
+
+fun div(a: Int, b: Int): Int {
+    TODO()
 }
 
 fun test() {
