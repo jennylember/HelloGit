@@ -7,6 +7,17 @@ fun main() {
     println("Yo!")
     println("Yoee!")
     println("GitHub!!!")
+    println("Trap")
+    println("Trap")
+    println("Trap")
+    println("Trap")
+    println("Trap")
+    println("Trap")
+    println("Trap")
+    println("Trap")
+    println("Trap")
+    println("Trap")
+    println("Trap")
 }
 
 fun add(a: Int, b: Int): Int {
@@ -15,4 +26,8 @@ fun add(a: Int, b: Int): Int {
 
 fun mul(a: Int, b: Int): Int {
     return a * b
+}
+
+fun test() {
+    println(Controller().test())
 }
